@@ -4,4 +4,4 @@
 + Some outputs are hidden by github thing. Original notebooks have outputs.  
 + All the codes are based on MIT course assignments. I've done the work on my own.
 
-+ Content of Multi-view geometry: Explore rigit-body transformations, camera parameters, and projections using pointcloud.
++ Content of Multi-view geometry: Explore rigit-body transformations, camera parameters, and projections using pointcloud. Render a depth map, fuse multi-view depth into a single point cloud, compute epipolar lines.
