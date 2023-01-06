@@ -8,4 +8,4 @@
 
 + Contents of Differential rendering: Representing 3D geometry (Neural Fields, voxel Grids, Hybrid discrete-continuous represenations), Differentiable Rendering
 
-+ Contents of 
++ Contents of AutoDecoder Scene Represenation: Convolutional Auto-Decoders, Training auto-decoder of voxelgrid scene representations
